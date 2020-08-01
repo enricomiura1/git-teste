@@ -1,8 +1,7 @@
-O GIT é consideravelmente simples de usar. Para começar, você pode criar um repositório ou conferir 
-um já existente. 
-Após a instalação, um simples git-init irá deixar tudo pronto. Da mesma maneira, o comando git clone 
-pode criar uma cópia de um repositório local para um usuário.4 de fev. de 2019
+
 
 1-workink space 
 2-stage
 3-commited
+
+.........
